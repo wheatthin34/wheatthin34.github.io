@@ -1,5 +1,6 @@
-title: Welcome to WheatThin34's homepage!
-description: Feel free to check back to view my projects
+## Welcome to WheatThin34's homepage!
+Feel free to check back to view my projects
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wheatthin34/wheatthin34.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
