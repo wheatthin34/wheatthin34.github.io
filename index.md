@@ -5,10 +5,12 @@ Feel free to check back to view my projects
 
 My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduating with a Bachelors degree in Computer Science from Southern New Hampshire University at the end of 2019.
 
+
 ## Career Objective
 
 Seeking a position in an environment that will help me to grow and learn while gaining hands on
 experience in the software development process.
+
 
 ## Self Assessment:
 TODO
@@ -26,22 +28,23 @@ Skills:
 - Git
 - Database Management (SQL and MongoDB)
 - Software Developmetn Lifecycle
-
 ```
+
 ## Code Review:
 TODO
 
 ## Projects:
 
 ### Estimating Tool:
-TODO
+      TODO
 #### Narrative:
-TODO
+      TODO
+
 
 ### Data Structures and Algorithms:
-TODO
+      TODO
 #### Narrative:
-TODO
+      TODO
 
 
 ### Contact
