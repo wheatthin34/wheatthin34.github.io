@@ -36,15 +36,15 @@ TODO
 ## Projects:
 
 ### Estimating Tool:
-      TODO
+   TODO
 #### Narrative:
-      TODO
+   TODO
 
 
 ### Data Structures and Algorithms:
-      TODO
+   TODO
 #### Narrative:
-      TODO
+   TODO
 
 
 ### Contact
