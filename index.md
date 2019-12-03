@@ -11,6 +11,12 @@ My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduatin
 Seeking a position in an environment that will help me to grow and learn while gaining hands on
 experience in the software development process.
 
+## Education
+
+### Southern New Hampshire University
+### Bachelor of Computer Science 
+#### Concentration in Software Engineering
+
 
 ## Self Assessment:
 TODO
