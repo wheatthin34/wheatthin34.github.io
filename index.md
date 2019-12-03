@@ -45,7 +45,7 @@ TODO
 
 
 ### Contact
-Matt.d.Wheatley@gmail.com
+matt.d.wheatley@gmail.com
 
 ### Jekyll Themes
 
