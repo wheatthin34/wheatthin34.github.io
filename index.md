@@ -10,31 +10,45 @@ My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduatin
 Seeking a position in an environment that will help me to grow and learn while gaining hands on
 experience in the software development process.
 
+## Self Assessment:
+TODO
 
 
 ```Projects
-Syntax highlighted code block
+Languages:
+- C++
+- Python
+- Java
+- Swift
 
-# Header 1
-## Header 2
-### Header 3
+Skills:
+- Reverse Engineering
+- Git
+- Database Management (SQL and MongoDB)
+- Software Developmetn Lifecycle
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+## Code Review:
+TODO
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Projects:
+
+### Estimating Tool:
+TODO
+#### Narrative:
+TODO
+
+### Data Structures and Algorithms:
+TODO
+#### Narrative:
+TODO
+
+
+### Contact
+Matt.d.Wheatley@gmail.com
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wheatthin34/wheatthin34.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Contact
-Matt.d.Wheatley@gmail.com
+
