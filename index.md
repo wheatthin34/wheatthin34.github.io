@@ -13,10 +13,10 @@ experience in the software development process.
 
 ## Education
 
-### Southern New Hampshire University
-### Bachelor of Computer Science 
-#### Concentration in Software Engineering
-
+Southern New Hampshire University
+Bachelor of Computer Science 
+Concentration in Software Engineering
+December 2019
 
 ## Self Assessment:
 TODO
