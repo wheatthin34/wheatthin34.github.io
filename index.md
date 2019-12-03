@@ -13,9 +13,9 @@ experience in the software development process.
 
 ## Education
 
-Southern New Hampshire University
-Bachelor of Computer Science 
-Concentration in Software Engineering
+Southern New Hampshire University<br/>
+Bachelor of Computer Science<br/> 
+Concentration in Software Engineering<br/>
 December 2019
 
 ## Self Assessment:
