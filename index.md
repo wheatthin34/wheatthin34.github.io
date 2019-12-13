@@ -51,13 +51,13 @@ TODO
 <br><h3 id="projects"><strong>Projects</strong></h3>
 
 <h4>Estimating Tool:</h4>
-   <li><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a></li>
+   <br><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a>
 Narrative: <br/>
    TODO <br/>
 
 
 <h4>Learning Arrays:</h4>
-   <li><a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a></li>
+   <br><a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a>
 Narrative: <br/>
    TODO
 
