@@ -32,15 +32,15 @@ TODO
 
 
 <br><h3>Skills:</h3>
-- C++
-- Python
-- Java
-- Swift
-- SQL
-- MongoDB
-- Reverse Engineering
-- Git
-- Software Development Lifecycle
+ - C++
+ - Python
+ - Java
+ - Swift
+ - SQL
+ - MongoDB
+ - Reverse Engineering
+ - Git
+ - Software Development Lifecycle
 
 
 <br><h3 id="codereview"><strong>Code Review</strong></h3>
