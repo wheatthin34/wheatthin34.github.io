@@ -13,21 +13,23 @@ Feel free to check back to view my projects
 
 <h3 id="aboutMe"><strong>About Me</strong></h3>
 My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduating with a Bachelors degree in Computer Science from Southern New Hampshire University at the end of 2019.
+</br>
 
 <h3 id="careerobjective"><strong>Career Objective</strong></h3>
 Seeking a position in an environment that will help me to grow and learn while gaining hands on
 experience in the software development process.
+</br>
 
 <h3 id="education"><strong>Education</strong></h3>
 Southern New Hampshire University<br/>
 Bachelor of Computer Science<br/> 
 Concentration in Software Engineering<br/>
 December 2019
+</br>
 
-<p>
 <h3 id="selfassessment"><strong>Self Assessment</strong></h3>
 TODO
-</p>
+
 
 ```Projects
 Languages:
