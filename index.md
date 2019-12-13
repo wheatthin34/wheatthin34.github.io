@@ -20,7 +20,7 @@ Seeking a position in an environment that will help me to grow and learn while g
 experience in the software development process.
 <br/>
 
-<h3 id="education"><strong>Education</strong></h3>
+<br/><h3 id="education"><strong>Education</strong></h3>
 Southern New Hampshire University<br/>
 Bachelor of Computer Science<br/> 
 Concentration in Software Engineering<br/>
@@ -50,13 +50,13 @@ TODO
 
 <h3 id="projects"><strong>Projects</strong></h3>
 
-<h2>Estimating Tool:</h2>
+<h4>Estimating Tool:</h4>
    <li><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a></li>
 Narrative:
    TODO <br/>
 
 
-<h2>Learning Arrays:</h2>
+<h4>Learning Arrays:</h4>
    <li><a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a></li>
 Narrative: <br/>
    TODO
