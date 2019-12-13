@@ -64,3 +64,4 @@ Narrative: <br/>
 
 <br><br><h3 id="contact"><strong>Contact</strong></h3>
 matt.d.wheatley@gmail.com
+<br><a target="_blank" href="https://github.com/wheatthin34">GitHub</a>
