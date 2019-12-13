@@ -31,17 +31,16 @@ December 2019
 TODO
 
 
-Languages:
+Skills:
 - C++
 - Python
 - Java
 - Swift
-
-Skills:
+- SQL
+- MongoDB
 - Reverse Engineering
 - Git
-- Database Management (SQL and MongoDB)
-- Software Developmetn Lifecycle
+- Software Development Lifecycle
 
 
 <br><h3 id="codereview"><strong>Code Review</strong></h3>
