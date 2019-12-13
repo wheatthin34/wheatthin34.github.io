@@ -53,15 +53,16 @@ TODO
 <br><h3 id="projects"><strong>Projects</strong></h3>
 
 <strong>Estimating Tool:</strong>
-   <br><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a><br/>
-Narrative: <br/>
+<br>Narrative: <br/>
    TODO <br/>
+   <a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a><br/>
+
 
 
 <br><strong>Learning Arrays:</strong>
 <br>Narrative: <br/>
    TODO <br/>
-   <br><a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a><br/>
+   <a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a><br/>
 
 
 <br><br><h3 id="contact"><strong>Contact</strong></h3>
