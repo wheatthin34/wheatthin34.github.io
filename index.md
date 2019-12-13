@@ -43,7 +43,7 @@ December 2019
  - MongoDB
  - Reverse Engineering
  - Git
- - Software Development Lifecycle
+ - SDLC
 <br/>
 
 <br><h3 id="codereview"><strong>Code Review</strong></h3>
