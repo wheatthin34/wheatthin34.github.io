@@ -2,17 +2,19 @@
 Feel free to check back to view my projects
 
 <p>Table of Contents: <br/> 
-        <a href="#aboutMe">About Me</a><br/>,
-        <a href="#careerobjective">Career Objective</a><br/>,
-        <a href="#education">Education</a><br/>,
-        <a href="#selfassessment">Self Assessment</a><br/>,
-        <a href="#codereviewt">Code Review</a><br/>,
-        <a href="#projects">Projects</a><br/>,
-        <a href="#contact">Contact</a><br/>,
+        <a href="#aboutMe">About Me</a><br/>
+        <a href="#careerobjective">Career Objective</a><br/>
+        <a href="#education">Education</a><br/>
+        <a href="#selfassessment">Self Assessment</a><br/>
+        <a href="#codereviewt">Code Review</a><br/>
+        <a href="#projects">Projects</a><br/>
+        <a href="#contact">Contact</a><br/>
    
 
 <h3 id="aboutMe">About Me</h3>
 My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduating with a Bachelors degree in Computer Science from Southern New Hampshire University at the end of 2019.
+
+
 
 
 <h3 id="careerobjective">Career Objective</h3>
