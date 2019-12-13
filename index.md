@@ -14,13 +14,9 @@ Feel free to check back to view my projects
 <h3 id="aboutMe"><strong>About Me</strong></h3>
 My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduating with a Bachelors degree in Computer Science from Southern New Hampshire University at the end of 2019.<br/>
 
-
-
-
 <h3 id="careerobjective"><strong>Career Objective</strong></h3>
 Seeking a position in an environment that will help me to grow and learn while gaining hands on
 experience in the software development process.
-
 
 <h3 id="education"><strong>Education</strong></h3>
 Southern New Hampshire University<br/>
@@ -28,10 +24,8 @@ Bachelor of Computer Science<br/>
 Concentration in Software Engineering<br/>
 December 2019
 
-
 <h3 id="selfassessment"><strong>Self Assessment</strong></h3>
 TODO
-
 
 ```Projects
 Languages:
@@ -47,30 +41,22 @@ Skills:
 - Software Developmetn Lifecycle
 ```
 
-
 <h3 id="codereview"><strong>Code Review</strong></h3>
 TODO
 
-
 <h3 id="projects"><strong>Projects</strong></h3>
 
-### Estimating Tool:
+<h2 Estimating Tool: </h2>
    <li><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a></li>
-#### Narrative:
+<h1 Narrative: </h1>
    TODO
 
 
-### Learning Arrays:
+<h2 Learning Arrays: </h2>
    <li><a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a></li>
-#### Narrative:
+<h1 Narrative: </h1>
    TODO
 
 
 <h3 id="contact"><strong>Contact</strong></h3>
 matt.d.wheatley@gmail.com
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wheatthin34/wheatthin34.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
