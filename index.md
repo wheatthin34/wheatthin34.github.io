@@ -47,7 +47,7 @@ December 2019
 <br/>
 
 <br><h3 id="codereview"><strong>Code Review</strong></h3>
-TODO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VlGciz_-5ls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br><h3 id="projects"><strong>Projects</strong></h3>
