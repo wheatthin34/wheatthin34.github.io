@@ -12,7 +12,7 @@ Feel free to check back to view my projects
    
 
 <h3 id="aboutMe"><strong>About Me</strong></h3>
-My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduating with a Bachelors degree in Computer Science from Southern New Hampshire University at the end of 2019.<br/>
+My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduating with a Bachelors degree in Computer Science from Southern New Hampshire University at the end of 2019.
 
 <h3 id="careerobjective"><strong>Career Objective</strong></h3>
 Seeking a position in an environment that will help me to grow and learn while gaining hands on
@@ -24,8 +24,10 @@ Bachelor of Computer Science<br/>
 Concentration in Software Engineering<br/>
 December 2019
 
+<p>
 <h3 id="selfassessment"><strong>Self Assessment</strong></h3>
 TODO
+</p>
 
 ```Projects
 Languages:
@@ -46,13 +48,13 @@ TODO
 
 <h3 id="projects"><strong>Projects</strong></h3>
 
-<h2 Estimating Tool: </h2>
+## Estimating Tool:
    <li><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a></li>
 <h1 Narrative: </h1>
    TODO
 
 
-<h2 Learning Arrays: </h2>
+## Learning Arrays:
    <li><a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a></li>
 <h1 Narrative: </h1>
    TODO
