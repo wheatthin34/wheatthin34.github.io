@@ -11,7 +11,7 @@ Feel free to check back to view my projects
         <a href="#contact">Contact</a><br/>
    
 
-<h3 id="aboutMe">About Me</h3>
+<h3 id="aboutMe"><strong>About Me</strong></h3>
 My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduating with a Bachelors degree in Computer Science from Southern New Hampshire University at the end of 2019.
 
 
