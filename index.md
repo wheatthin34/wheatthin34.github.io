@@ -48,6 +48,7 @@ Skills:
 <br><h3 id="codereview"><strong>Code Review</strong></h3>
 TODO
 
+<br>
 <br><h3 id="projects"><strong>Projects</strong></h3>
 
 <h4>Estimating Tool:</h4>
@@ -62,5 +63,5 @@ Narrative: <br/>
    TODO
 
 
-<h3 id="contact"><strong>Contact</strong></h3>
+<br><br><h3 id="contact"><strong>Contact</strong></h3>
 matt.d.wheatley@gmail.com
