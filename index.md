@@ -6,8 +6,8 @@ Download my resume
 <p><br/> 
         <a href="#aboutMe">About Me</a><br/>
         <a href="#careerobjective">Career Objective</a><br/>
-        <a href="#education">Education</a><br/>
         <a href="#selfassessment">Self Assessment</a><br/>
+        <a href="#education">Education</a><br/>
         <a href="#skills">Skills</a><br/>
         <a href="#codereview">Code Review</a><br/>
         <a href="#projects">Projects</a><br/>
@@ -23,15 +23,15 @@ Seeking a position in an environment that will help me to grow and learn while g
 experience in the software development process.
 <br/>
 
+<br><h3 id="selfassessment"><strong>Self Assessment</strong></h3>
+TODO
+<br/>
+
 <br/><h3 id="education"><strong>Education</strong></h3>
 <strong>Southern New Hampshire University</strong><br/>
 Bachelor of Science in Computer Science<br/> 
 Concentration in Software Engineering<br/>
 December 2019
-<br/>
-
-<br><h3 id="selfassessment"><strong>Self Assessment</strong></h3>
-TODO
 <br/>
 
 <br><h3 id="skills"><strong>Skills:</strong></h3>
