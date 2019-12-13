@@ -51,7 +51,7 @@ TODO
 
 <h4>Estimating Tool:</h4>
    <li><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a></li>
-Narrative:
+Narrative: <br/>
    TODO <br/>
 
 
