@@ -22,7 +22,7 @@ experience in the software development process.
 <br/>
 
 <br/><h3 id="education"><strong>Education</strong></h3>
-Southern New Hampshire University<br/>
+<h4>Southern New Hampshire University<br/><h4/>
 Bachelor of Computer Science<br/> 
 Concentration in Software Engineering<br/>
 December 2019
@@ -33,7 +33,7 @@ TODO
 <br/>
 
 <br><h3 id="skills"><strong>Skills:</strong></h3>
- - C++
+  C++
  - Python
  - Java
  - Swift
