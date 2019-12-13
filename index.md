@@ -6,6 +6,7 @@ Feel free to check back to view my projects
         <a href="#careerobjective">Career Objective</a><br/>
         <a href="#education">Education</a><br/>
         <a href="#selfassessment">Self Assessment</a><br/>
+        <a href="#skills">Skills</a><br/>
         <a href="#codereview">Code Review</a><br/>
         <a href="#projects">Projects</a><br/>
         <a href="#contact">Contact</a><br/>
@@ -31,7 +32,7 @@ December 2019
 TODO
 
 
-<br><h3>Skills:</h3>
+<br><h3 id="skills"><strong>Skills:</strong></h3>
  - C++
  - Python
  - Java
