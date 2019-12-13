@@ -30,7 +30,7 @@ December 2019
 
 <br><h3 id="selfassessment"><strong>Self Assessment</strong></h3>
 TODO
-<br>
+<br/>
 
 <br><h3 id="skills"><strong>Skills:</strong></h3>
  - C++
