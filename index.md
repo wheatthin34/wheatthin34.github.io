@@ -27,7 +27,7 @@ Concentration in Software Engineering<br/>
 December 2019
 <br/>
 
-<h3 id="selfassessment"><strong>Self Assessment</strong></h3>
+<br><h3 id="selfassessment"><strong>Self Assessment</strong></h3>
 TODO
 
 
@@ -45,10 +45,10 @@ Skills:
 - Software Developmetn Lifecycle
 ```
 
-<h3 id="codereview"><strong>Code Review</strong></h3>
+<br><h3 id="codereview"><strong>Code Review</strong></h3>
 TODO
 
-<h3 id="projects"><strong>Projects</strong></h3>
+<br><h3 id="projects"><strong>Projects</strong></h3>
 
 <h4>Estimating Tool:</h4>
    <li><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a></li>
