@@ -1,6 +1,7 @@
 ## Welcome to Wheatthin34's homepage!
 Feel free to check back to view my projects<br>
-<a href="https://github.com/wheatthin34/wheatthin34.github.io/blob/master/MatthewWheatleyResume.pdf" target="_blank">Resume</a>
+Download my resume 
+<a href="https://github.com/wheatthin34/wheatthin34.github.io/blob/master/MatthewWheatleyResume.pdf" target="_blank">here.</a>
 
 <p><br/> 
         <a href="#aboutMe">About Me</a><br/>
