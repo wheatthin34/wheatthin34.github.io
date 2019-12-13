@@ -31,7 +31,7 @@ December 2019
 TODO
 
 
-Skills:
+<br><h3>Skills:</h3>
 - C++
 - Python
 - Java
