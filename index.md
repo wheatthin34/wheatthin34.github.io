@@ -1,7 +1,11 @@
 ## Welcome to Wheatthin34's homepage!
 Feel free to check back to view my projects
 
-## Background
+<li><a href = "About Me"> About Me </a></li>
+
+
+
+<h2 id = "About Me"> About Me </h2>
 
 My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduating with a Bachelors degree in Computer Science from Southern New Hampshire University at the end of 2019.
 
@@ -47,7 +51,7 @@ TODO
    TODO
 
 
-### Data Structures and Algorithms:
+### Learning Arrays:
    TODO
 #### Narrative:
    TODO
