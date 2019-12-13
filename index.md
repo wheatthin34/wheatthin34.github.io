@@ -31,7 +31,6 @@ December 2019
 TODO
 
 
-```Projects
 Languages:
 - C++
 - Python
@@ -43,7 +42,7 @@ Skills:
 - Git
 - Database Management (SQL and MongoDB)
 - Software Developmetn Lifecycle
-```
+
 
 <br><h3 id="codereview"><strong>Code Review</strong></h3>
 TODO
