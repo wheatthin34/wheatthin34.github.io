@@ -17,19 +17,19 @@ My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduatin
 
 
 
-<h3 id="careerobjective">Career Objective</h3>
+<h3 id="careerobjective"><strong>Career Objective</strong></h3>
 Seeking a position in an environment that will help me to grow and learn while gaining hands on
 experience in the software development process.
 
 
-<h3 id="education">Education</h3>
+<h3 id="education"><strong>Education</strong></h3>
 Southern New Hampshire University<br/>
 Bachelor of Computer Science<br/> 
 Concentration in Software Engineering<br/>
 December 2019
 
 
-<h3 id="selfassessment">Self Assessment</h3>
+<h3 id="selfassessment"><strong>Self Assessment</strong></h3>
 TODO
 
 
@@ -48,11 +48,11 @@ Skills:
 ```
 
 
-<h3 id="codereview">Code Review</h3>
+<h3 id="codereview"><strong>Code Review</strong></h3>
 TODO
 
 
-<h3 id="projects">Projects</h3>
+<h3 id="projects"><strong>Projects</strong></h3>
 
 ### Estimating Tool:
    <li><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a></li>
@@ -66,7 +66,7 @@ TODO
    TODO
 
 
-<h3 id="contact">Contact</h3>
+<h3 id="contact"><strong>Contact</strong></h3>
 matt.d.wheatley@gmail.com
 
 ### Jekyll Themes
