@@ -59,9 +59,9 @@ Narrative: <br/>
 
 
 <br><strong>Learning Arrays:</strong>
-   <br><a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a><br/>
 Narrative: <br/>
-   TODO
+   TODO <br/>
+   <br><a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a><br/>
 
 
 <br><br><h3 id="contact"><strong>Contact</strong></h3>
