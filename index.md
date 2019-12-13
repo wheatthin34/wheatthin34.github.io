@@ -55,13 +55,13 @@ TODO
 <h3 id="projects">Projects</h3>
 
 ### Estimating Tool:
-   TODO
+   <li><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a></li>
 #### Narrative:
    TODO
 
 
 ### Learning Arrays:
-   TODO
+   <li><a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a></li>
 #### Narrative:
    TODO
 
