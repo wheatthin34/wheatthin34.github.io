@@ -1,12 +1,12 @@
 ## Welcome to Wheatthin34's homepage!
 Feel free to check back to view my projects
 
-<p>Table of Contents: <br/> 
+<p><br/> 
         <a href="#aboutMe">About Me</a><br/>
         <a href="#careerobjective">Career Objective</a><br/>
         <a href="#education">Education</a><br/>
         <a href="#selfassessment">Self Assessment</a><br/>
-        <a href="#codereviewt">Code Review</a><br/>
+        <a href="#codereview">Code Review</a><br/>
         <a href="#projects">Projects</a><br/>
         <a href="#contact">Contact</a><br/>
    
