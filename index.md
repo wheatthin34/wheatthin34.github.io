@@ -22,7 +22,7 @@ experience in the software development process.
 <br/>
 
 <br/><h3 id="education"><strong>Education</strong></h3>
-<h4>Southern New Hampshire University<br/><h4/>
+<strong>Southern New Hampshire University</strong><br/>
 Bachelor of Computer Science<br/> 
 Concentration in Software Engineering<br/>
 December 2019
