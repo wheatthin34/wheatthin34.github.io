@@ -52,14 +52,12 @@ December 2019
 <br>
 <br><h3 id="projects"><strong>Projects</strong></h3>
 
-<strong>Estimating Tool:</strong>
-<br>Narrative: <br/>
+<strong>Estimating Tool: </strong> <a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a><br/>
    TODO <br/>
-   <a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a><br/>
 
 
 
-<br><strong>Arrays:</strong> <a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a><br/><br/>
+<br><strong>Arrays: </strong> <a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a><br/><br/>
    This program allows the user to enter eight numbers into an array and perform different tasks with the array. Some of the functions include to print the array forwards and backwards, print the sum and print the average. This was a program that I created a few months ago to mess around and get a better understanding of arrays in C++.<br>
 I chose to include this project to show that I can start from scratch and show how my programming is organized. I plan on improving this program by including different types of search and sort functions. The search functions I plan to include involve searching for a specific value, count the number of occurrences, and search for the lowest and highest value. I also plan on including a sort function that will sort the values in the array. Including multiple algorithms and data structures will help display to potential employers that I have a good understanding of these subjects. <br>
 I believe that this project will meet the course objectives with this project. This will show that I have a good understanding of algorithms and data structures. Understanding algorithms and data structures will be a big part in my future computer science career. The process was a little more challenging than I thought it would be. Making sure that the search and sort functionality worked correctly took plenty or testing and debugging. I have not had much experience in sorting and searching which made this whole project a learning experience. 
