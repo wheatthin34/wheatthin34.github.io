@@ -59,7 +59,7 @@ December 2019
 
 
 
-<br><strong>Learning Arrays:</strong>
+<br><strong>Arrays:</strong>
 <br>Narrative: <br/>
    This program allows the user to enter eight numbers into an array and perform different tasks with the array. Some of the functions include to print the array forwards and backwards, print the sum and print the average. This was a program that I created a few months ago to mess around and get a better understanding of arrays in C++.<br>
 I chose to include this project to show that I can start from scratch and show how my programming is organized. I plan on improving this program by including different types of search and sort functions. The search functions I plan to include involve searching for a specific value, count the number of occurrences, and search for the lowest and highest value. I also plan on including a sort function that will sort the values in the array. Including multiple algorithms and data structures will help display to potential employers that I have a good understanding of these subjects. <br>
