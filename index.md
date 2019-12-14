@@ -52,7 +52,7 @@ December 2019
 <br>
 <br><h3 id="projects"><strong>Projects</strong></h3>
 
-<strong>Estimating Tool: </strong> <a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a><br/>
+<strong>Estimating Tool: </strong><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a><br/><br/>
    TODO <br/>
 
 
