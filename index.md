@@ -12,7 +12,7 @@ Download resume
         <a href="#projects">Projects</a>&nbsp;&nbsp;
         <a href="#contact">Contact</a>
    
-
+<br>
 <center><h3 id="aboutMe"><strong>About Me</strong></h3></center>
 &nbsp;&nbsp;&nbsp;&nbsp;My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduating with a Bachelors degree in Computer Science from Southern New Hampshire University at the end of 2019.
 <br/>
