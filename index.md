@@ -1,4 +1,4 @@
-## Matt Wheatley
+## Hi, Matt Wheatley.
 Feel free to check back to view my projects<br>
 Download resume 
 <a href="https://github.com/wheatthin34/wheatthin34.github.io/blob/master/MatthewWheatleyResume.pdf" target="_blank">here.</a>
