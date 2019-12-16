@@ -2,7 +2,6 @@
 Feel free to check back to view my projects<br>
 Download resume 
 <a href="https://github.com/wheatthin34/wheatthin34.github.io/blob/master/MatthewWheatleyResume.pdf" target="_blank">here.</a>
-
 <p><br/> 
         <a href="#aboutMe">About Me</a><br/>
         <a href="#careerobjective">Career Objective</a><br/>
@@ -17,11 +16,13 @@ Download resume
 <center><h3 id="aboutMe"><strong>About Me</strong></h3></center>
 &nbsp;&nbsp;&nbsp;&nbsp;My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduating with a Bachelors degree in Computer Science from Southern New Hampshire University at the end of 2019.
 <br/>
+<br>
 
 <center><br><h3 id="careerobjective"><strong>Career Objective</strong></h3></center>
 &nbsp;&nbsp;&nbsp;&nbsp;Seeking a position in an environment that will help me to grow and learn while gaining hands on
 experience in the software development process.
 <br/>
+<br>
 
 <center><br><h3 id="selfassessment"><strong>Self Assessment</strong></h3></center>
 &nbsp;&nbsp;&nbsp;&nbsp;Over the past few years I have learned a lot about computer science and the many fields that fall under the computer science category and I am excited to learn more as I transition into my career. Computer science was a new topic to me compared to many other students that I had taken courses with. When I first got into the program, I found that a lot of my classmates were either already working in the field or have been writing code for many years which caused me to feel a little overwhelmed and behind. I believe that this helped me to push harder in my courses and I am proud of how well my hard work payed off. I do believe that I still have a lot learn and I am excited to learn from others in the profession. <br>
@@ -30,13 +31,14 @@ experience in the software development process.
 &nbsp;&nbsp;&nbsp;&nbsp;Below are two <a href="#projects">projects</a> that show some of my personal projects that help display my understanding of different computer science subjects. The first project is an estimating tool that I am able to use at my current work to help price out projects faster than our traditional method. It allows the user to enter in a few basic details about the item and outputs costs of the total project and different materials included in the project. The next project is a personal project I was working on to get a better understanding or arrays along with different searching and sorting algorithms. 
 
 <br/>
-
+<br>
 <center><br/><h3 id="education"><strong>Education</strong></h3></center>
 <strong>Southern New Hampshire University</strong><br/>
 Bachelor of Science in Computer Science<br/> 
 Concentration in Software Engineering<br/>
 December 2019
 <br/>
+<br>
 
 <center><br><h3 id="skills"><strong>Skills:</strong></h3></center>
   C++
