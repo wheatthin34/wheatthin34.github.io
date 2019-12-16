@@ -72,6 +72,7 @@ December 2019
 &nbsp;&nbsp;&nbsp;&nbsp;I believe that this project will meet the course objectives with this project. This will show that I have a good understanding of algorithms and data structures. Understanding algorithms and data structures will be a big part in my future computer science career. The process was a little more challenging than I thought it would be. Making sure that the search and sort functionality worked correctly took plenty or testing and debugging. I have not had much experience in sorting and searching which made this whole project a learning experience. 
  <br/>
 
+ <img src="Screenshots/Arrays.png" alt="hi" class="inline"/>
 
 <br><br><h3 id="contact"><strong>Contact</strong></h3>
 matt.d.wheatley@gmail.com
