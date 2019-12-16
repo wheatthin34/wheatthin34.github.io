@@ -1,3 +1,9 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 ## Matt Wheatley
 Feel free to check back to view my projects<br>
 Download resume 
@@ -63,7 +69,7 @@ December 2019
  <br/>
  <br/>
  Estimating Tool Screenshot:<br>
- <img src="Screenshots/Estimator.png" alt="hi" class="inline"/>
+ <img src="Screenshots/Estimator.png" alt="hi" class="center"/>
 
 
 
@@ -74,7 +80,7 @@ December 2019
  <br/>
  <br/>
  Arrays Screenshot:<br>
- <img src="Screenshots/Arrays.png" alt="hi" class="inline"/>
+ <img src="Screenshots/Arrays.png" alt="hi" class="center"/>
 
 <br><br><h3 id="contact"><strong>Contact</strong></h3>
 matt.d.wheatley@gmail.com
