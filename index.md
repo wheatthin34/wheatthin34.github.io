@@ -57,6 +57,7 @@ December 2019
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VlGciz_-5ls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
+<br/>
 <center><br><h3 id="projects"><strong>Projects</strong></h3></center>
 
 <strong>Estimating Tool: </strong><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a><br/><br/>
