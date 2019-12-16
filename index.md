@@ -3,13 +3,13 @@ Feel free to check back to view my projects<br>
 Download resume 
 <a href="https://github.com/wheatthin34/wheatthin34.github.io/blob/master/MatthewWheatleyResume.pdf" target="_blank">here.</a>
 <p><br/> 
-        <a href="#aboutMe">About Me</a>
-        <a href="#careerobjective">Career Objective</a>
-        <a href="#selfassessment">Self Assessment</a>
-        <a href="#education">Education</a>
-        <a href="#skills">Skills</a>
-        <a href="#codereview">Code Review</a>
-        <a href="#projects">Projects</a>
+        <a href="#aboutMe">About Me</a>&nbsp;&nbsp;
+        <a href="#careerobjective">Career Objective</a>&nbsp;&nbsp;
+        <a href="#selfassessment">Self Assessment</a>&nbsp;&nbsp;
+        <a href="#education">Education</a>&nbsp;&nbsp;
+        <a href="#skills">Skills</a>&nbsp;&nbsp;
+        <a href="#codereview">Code Review</a>&nbsp;&nbsp;
+        <a href="#projects">Projects</a>&nbsp;&nbsp;
         <a href="#contact">Contact</a>
    
 
