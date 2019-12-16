@@ -69,8 +69,8 @@ December 2019
  <br/>
  <br/>
  Estimating Tool Screenshot:<br>
- <img src="Screenshots/Estimator.png" alt="hi" class="center"/>
-
+ <img src="Screenshots/Estimator.png" alt="Estimator" class="center"/>
+ <br>
 
 
 <br><strong>Arrays: </strong> <a target="_blank" href="https://github.com/wheatthin34/Arrays">View Project</a><br/><br/>
@@ -80,7 +80,7 @@ December 2019
  <br/>
  <br/>
  Arrays Screenshot:<br>
- <img src="Screenshots/Arrays.png" alt="hi" class="center"/>
+ <img src="Screenshots/Arrays.png" alt="Arrays" class="center"/>
 
 <br><br><h3 id="contact"><strong>Contact</strong></h3>
 matt.d.wheatley@gmail.com
