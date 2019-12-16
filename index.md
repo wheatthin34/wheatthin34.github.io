@@ -63,7 +63,7 @@ December 2019
  <br/>
  <br/>
  <strong>Estimating Tool Screenshot:</strong><br>
- <img src="Screenshots/Estimator.png" alt="Estimator" class="center"/>
+ <center><img src="Screenshots/Estimator.png" alt="Estimator" class="center"/></center>
  <br>
 
 
@@ -74,7 +74,7 @@ December 2019
  <br/>
  <br/>
  <strong>Arrays Screenshot:</strong><br>
- <img src="Screenshots/Arrays.png" alt="Arrays" class="center"/>
+ <center><img src="Screenshots/Arrays.png" alt="Arrays" class="center"/></center>
 
 <br><br><h3 id="contact"><strong>Contact</strong></h3>
 matt.d.wheatley@gmail.com
