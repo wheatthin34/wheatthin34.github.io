@@ -14,16 +14,16 @@ Download resume
         <a href="#contact">Contact</a><br/>
    
 
-<h3 id="aboutMe"><strong>About Me</strong></h3>
+<center><h3 id="aboutMe"><strong>About Me</strong></h3></center>
 &nbsp;&nbsp;&nbsp;&nbsp;My name is Matt Wheatley and I am from Louisville, Kentucky. I will be graduating with a Bachelors degree in Computer Science from Southern New Hampshire University at the end of 2019.
 <br/>
 
-<br><h3 id="careerobjective"><strong>Career Objective</strong></h3>
+<center><br><h3 id="careerobjective"><strong>Career Objective</strong></h3></center>
 &nbsp;&nbsp;&nbsp;&nbsp;Seeking a position in an environment that will help me to grow and learn while gaining hands on
 experience in the software development process.
 <br/>
 
-<br><h3 id="selfassessment"><strong>Self Assessment</strong></h3>
+<center><br><h3 id="selfassessment"><strong>Self Assessment</strong></h3></center>
 &nbsp;&nbsp;&nbsp;&nbsp;Over the past few years I have learned a lot about computer science and the many fields that fall under the computer science category and I am excited to learn more as I transition into my career. Computer science was a new topic to me compared to many other students that I had taken courses with. When I first got into the program, I found that a lot of my classmates were either already working in the field or have been writing code for many years which caused me to feel a little overwhelmed and behind. I believe that this helped me to push harder in my courses and I am proud of how well my hard work payed off. I do believe that I still have a lot learn and I am excited to learn from others in the profession. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;My first few courses consisted of learning about different programming languages and I was instantly hooked. These courses helped me have a better understanding of software engineering and databases. I found myself learning different ways of thinking and how to create programs more efficiently and effectively It also taught me basic coding practices like commenting code, naming variables, proper control flow. I then began with data structures and algorithms which was a bit of a struggle but with continued practice I began to have a better understanding. We covered a lot in this course like arrays, linked lists, trees, queues, stacks and more. This transitioned into different algorithms like sorting and searching through data structures. Secure coding was very interesting, and I feel like I still have a lot to learn. It is amazing the different ways users can exploit programs intentionally and unintentionally. I enjoyed having hands on experience trying these different methods like buffer overflows, SQL injections and more. Many of these can be avoided with simple coding practices.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Some of my courses also consisted of the business side of computer science which was very beneficial to me. I did not have much of an idea of how people worked in this field. At least from a day to day basis. It was interesting learning about working in a team environment and using Git to help the team stay organized and keeping track of any changes made. I also found it interesting in the different types of design processes like the agile and waterfall method along with the pros and cons of each method. <br>
@@ -31,14 +31,14 @@ experience in the software development process.
 
 <br/>
 
-<br/><h3 id="education"><strong>Education</strong></h3>
+<center><br/><h3 id="education"><strong>Education</strong></h3></center>
 <strong>Southern New Hampshire University</strong><br/>
 Bachelor of Science in Computer Science<br/> 
 Concentration in Software Engineering<br/>
 December 2019
 <br/>
 
-<br><h3 id="skills"><strong>Skills:</strong></h3>
+<center><br><h3 id="skills"><strong>Skills:</strong></h3></center>
   C++
  - Python
  - Java
@@ -50,11 +50,11 @@ December 2019
  - SDLC
 <br/>
 
-<br><h3 id="codereview"><strong>Code Review</strong></h3>
+<center><br><h3 id="codereview"><strong>Code Review</strong></h3></center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VlGciz_-5ls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
-<br><h3 id="projects"><strong>Projects</strong></h3>
+<center><br><h3 id="projects"><strong>Projects</strong></h3></center>
 
 <strong>Estimating Tool: </strong><a target="_blank" href="https://github.com/wheatthin34/Estimator">View Project</a><br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;This project will begin with having the user create a username and password. If they already have an account, they will be able to login using their information. This will be a program that I will be able to use at my current job to help make estimating projects easier. The program will only require the user to enter in a little bit of information and will calculate the pricing and amount of materials needed for a job.<br> 
@@ -76,6 +76,6 @@ December 2019
  <strong>Arrays Screenshot:</strong><br>
  <center><img src="Screenshots/Arrays.png" alt="Arrays" class="center"/></center>
 
-<br><br><h3 id="contact"><strong>Contact</strong></h3>
+<center><br><br><h3 id="contact"><strong>Contact</strong></h3></center>
 matt.d.wheatley@gmail.com
 <br><a target="_blank" href="https://github.com/wheatthin34">GitHub</a>
