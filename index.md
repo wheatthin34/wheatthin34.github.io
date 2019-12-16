@@ -62,7 +62,7 @@ December 2019
 &nbsp;&nbsp;&nbsp;&nbsp;I believe that this project will meet the course objectives with this project. This will show that I have a good understanding of software design process and how databases work. Understanding the software design process will play a big part in my computer science career. I would like to be a programmer when I move into this field so this will help display that I have and understanding of this topic. The process has been a little more challenging than I thought it would be. I thought I would be able to jump right in and start coding without thoroughly thinking about how I was going to put it together. I learned that I needed to take a step back and create a basic layout or pseudocode of some sort to help in the coding process. I am finding that I am having to create more functions than I thought I would have and having to spend more time thinking about these other functions. I also have not had experience with connecting a database to C++. It has taken some research to figure out a good method. Right now, the database is being saved in a document and the code searches the .txt file for the login information. 
  <br/>
  
- <img src="images/Screenshots/Estimator.png" alt="hi" class="inline"/>
+ <img src="Screenshots/Estimator.png" alt="hi" class="inline"/>
 
 
 
